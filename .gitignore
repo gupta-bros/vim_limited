@@ -1,3 +1,7 @@
 # ignore generated windows files:
 *.obj
 *.exe
+
+# ignore generated linux files:
+*.o
+*.out
