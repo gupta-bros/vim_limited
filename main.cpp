@@ -6,6 +6,10 @@ int main(void) {
 	cout << "Hello World" << endl;
 	cout << "vim_limited" << endl;
 	cout << "Version 1.00" << endl;
+
+	cout << endl;
+
+	cout << endl;
 	return 0;
 }
 
